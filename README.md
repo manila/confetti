@@ -1,0 +1,2 @@
+# confetti
+🎊 terminal confetti 🎉
